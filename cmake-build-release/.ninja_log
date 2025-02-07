@@ -1,0 +1,23 @@
+# ninja log v6
+3	631	7606442706585874	CMakeFiles/cuda_02_fractal.dir/main.cpp.obj	1cb3df835abe4e18
+14	2550	7604668027342587	CMakeFiles/cuda_02_fractal.dir/kernel.cu.obj	9f2b3e69a2b5fa66
+1636	1760	7606442722915365	cuda_02_fractal.exe	d7fbe8d79815f76b
+632	1635	7606442712884106	CMakeFiles/cuda_02_fractal.dir/cmake_device_link.obj	1642adc26e4b33cf
+22	562	7606445823846419	CMakeFiles/cuda_02_fractal.dir/main.cpp.obj	57f74dad9b8368f2
+563	1557	7606445829257668	CMakeFiles/cuda_02_fractal.dir/cmake_device_link.obj	1642adc26e4b33cf
+1557	1681	7606445839200784	cuda_02_fractal.exe	d7fbe8d79815f76b
+3	540	7606454486960376	CMakeFiles/cuda_02_fractal.dir/main.cpp.obj	57f74dad9b8368f2
+541	1520	7606454492323806	CMakeFiles/cuda_02_fractal.dir/cmake_device_link.obj	1642adc26e4b33cf
+1520	1640	7606454502127013	cuda_02_fractal.exe	d7fbe8d79815f76b
+4	542	7606454629957421	CMakeFiles/cuda_02_fractal.dir/main.cpp.obj	57f74dad9b8368f2
+542	1504	7606454635340757	CMakeFiles/cuda_02_fractal.dir/cmake_device_link.obj	1642adc26e4b33cf
+1504	1618	7606454644958408	cuda_02_fractal.exe	d7fbe8d79815f76b
+4	541	7606454920807052	CMakeFiles/cuda_02_fractal.dir/main.cpp.obj	57f74dad9b8368f2
+541	1483	7606454926176646	CMakeFiles/cuda_02_fractal.dir/cmake_device_link.obj	1642adc26e4b33cf
+1483	1596	7606454935589704	cuda_02_fractal.exe	d7fbe8d79815f76b
+4	542	7606455069245476	CMakeFiles/cuda_02_fractal.dir/main.cpp.obj	57f74dad9b8368f2
+543	1490	7606455074638379	CMakeFiles/cuda_02_fractal.dir/cmake_device_link.obj	1642adc26e4b33cf
+1490	1611	7606455084114361	cuda_02_fractal.exe	d7fbe8d79815f76b
+5	548	7606457069484639	CMakeFiles/cuda_02_fractal.dir/main.cpp.obj	57f74dad9b8368f2
+548	1476	7606457074925621	CMakeFiles/cuda_02_fractal.dir/cmake_device_link.obj	1642adc26e4b33cf
+1476	1592	7606457084199564	cuda_02_fractal.exe	d7fbe8d79815f76b

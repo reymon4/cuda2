@@ -1,0 +1,5 @@
+# ninja log v6
+71	540	7604630429384608	CMakeFiles/cuda_02_fractal.dir/main.cpp.obj	67dcc4257d0a8813
+24	1896	7604617969004083	CMakeFiles/cuda_02_fractal.dir/kernel.cu.obj	44f0608e58abf37d
+1500	1623	7604630443676802	cuda_02_fractal.exe	ec8378fd7e43c2ff
+544	1500	7604630434129560	CMakeFiles/cuda_02_fractal.dir/cmake_device_link.obj	772ad8f7ee082215
